@@ -1,6 +1,7 @@
 package cn.fenqing.singleton;
 
 /**
+ * 懒汉式
  * @author fenqing
  */
 public class LazySingleton {
