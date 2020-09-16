@@ -162,3 +162,26 @@
     
     }
     ```
+5. 枚举类
+    * 特点：天然的单例
+    * 优点：
+        1. 线程安全，保证唯一
+        2. 可以防止反序列化，反射
+    * 缺点：
+        1. 大多数时候不使用枚举作为业务代码类
+    ### 代码
+    ```java
+    package cn.fenqing.singleton;
+    
+    /**
+     * 枚举
+     * @author fenqing
+     */
+    public enum EnumSingletonEnum {
+    
+        /**
+         * 实例
+         */
+        INSTANCE;
+    }
+    ```
