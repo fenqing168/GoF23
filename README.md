@@ -5,3 +5,9 @@
 3. [工厂方法模式](./factorymethod.md)
 4. [抽样工厂模式](./abstractfactory.md)
 5. [建造者墨模式](./builder.md)
+## 结构型
+1. [代理模式](./proxy.md)
+2. [原型模式](./prototype.md)
+3. [工厂方法模式](./factorymethod.md)
+4. [抽样工厂模式](./abstractfactory.md)
+5. [建造者墨模式](./builder.md)
